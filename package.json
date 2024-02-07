@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "typeof": "node --watch ./compare/typeof.js",
+    "function": "node --watch ./fuction/function.js",
+    "uzduotys": "node --watch ./Namu_darbai/uzduotys.js",
     "ternary": "node --watch ./compare/ternary.js",
     "if": "node --watch ./compare/if.js",
     "boolean_hm": "node --watch ./data-types/boolean_hm.js",

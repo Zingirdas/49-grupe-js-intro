@@ -12,7 +12,7 @@ if () {} ... else if () {} ... else if () {}
 PALYGINIMO ELEMENTAI
 -visi: >, <, >=, <=, ==, ===, !=, !==
 -naudotini:>, <, >=, <=, ==, ===, !==
--nenaudotini:
+-nenaudotini: ==, !=
 */
 
 const profesija = 'Studentas';

@@ -10,11 +10,24 @@ Busimos temos:
     - skaiciai
     - tekstas
     - logines reiksmes
+    - underfined
     - sarasas
     - objektas
 -salygos (if)
--ciklai (if)
+    -if
+    -ternary
+    -switch
+-ciklai (for)
+    -for
+    -while
+    -do-while
+    for-of
+    -for-in
+    -kiti cikliski metodai
 -funkcijos
+    -funkcijos
+    -arrow function
+    -class
 -ivykiai (event listeners)
 
 */
