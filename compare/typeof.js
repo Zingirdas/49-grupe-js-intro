@@ -31,3 +31,5 @@ const g = typeof typeof 42069;
 // const g = 'string';
 
 console.log(g);
+
+console.clear();
