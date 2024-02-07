@@ -84,4 +84,6 @@ const kainosText = price <= priceToHigh ? 'iperkamomis' : 'per brangiomis';
 const ternaryPalanga3 = `${name} prekiauja ${kainosText} prekemis`;
 console.log(ternaryPalanga3);
 
+console.clear();
+
 
