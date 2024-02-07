@@ -14,6 +14,7 @@ PALYGINIMO ELEMENTAI
 -naudotini:>, <, >=, <=, ==, ===, !==
 -nenaudotini: ==, !=
 */
+// Update
 
 const profesija = 'Studentas';
 const amzius = 22;
