@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "exersisnumber-sum": "node --watch ./exersises/number-sum.js",
+    "for": "node --watch ./loops/for.js",
+    "array": "node --watch ./data-types/array.js",
     "typeof": "node --watch ./compare/typeof.js",
     "function": "node --watch ./fuction/function.js",
     "uzduotys": "node --watch ./Namu_darbai/uzduotys.js",

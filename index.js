@@ -7,15 +7,15 @@ multi temos - kai kuriamos kelatas temu
 /*
 Busimos temos:
 -duomenu tipai:
-    - skaiciai
-    - tekstas
-    - logines reiksmes
-    - underfined
+    + skaiciai
+    + tekstas
+    + logines reiksmes
+    + underfined
     - sarasas
     - objektas
 -salygos (if)
-    -if
-    -ternary
+    +if
+    +ternary
     -switch
 -ciklai (for)
     -for
@@ -25,7 +25,7 @@ Busimos temos:
     -for-in
     -kiti cikliski metodai
 -funkcijos
-    -funkcijos
+    +funkcijos
     -arrow function
     -class
 -ivykiai (event listeners)
