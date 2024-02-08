@@ -19,6 +19,7 @@ SKAICIU KATEGORIJOS:
     -matematiniai:
         - aritmetiniai: +, -, /, *; % (liekana), **(kelimas laipsniu)
         - aritmetiniai priskirymo operatoriui: +=, -=, /=, *=; %= (liekana), **=(kelimas laipsniu)
+        - arimetriniai: ++, --
 */
 
 console.log(1);
@@ -192,3 +193,60 @@ console.log(k);
 
 k **= 2;
 console.log(k);
+
+console.clear();
+
+let i = 0;
+console.log(i);
+
+i = i + 1;
+console.log(i);
+
+i = i + 1;
+console.log(i);
+
+i++;
+console.log(i);
+
+i++;
+console.log(i);
+
+i++;
+console.log(i);
+
+i++;
+console.log(i);
+
+i--;
+console.log(i);
+
+i--;
+console.log(i);
+
+i--;
+console.log(i);
+
+i--;
+console.log(i);
+
+console.clear();
+
+// didinimas vyksta po panaudijo (spausdinimo)
+let p = 0;
+console.log(p);
+console.log(p++);
+console.log(p++);
+console.log(p++);
+console.log(p++);
+console.log(p++);
+
+console.log('-----------');
+
+// didinimas vyksta pries panaudojima (spausdinima)
+let r = 0;
+console.log(r);
+console.log(++r);
+console.log(++r);
+console.log(++r);
+console.log(++r);
+console.log(++r);
