@@ -112,7 +112,7 @@ console.clear();
 // Jeigu kaina yra 99 ->99 Eur
 // Jeigu kaina yra 100 ->50 Eur
 // Jeigu kaina yra 102 ->51 Eur
-// Jeigu kaina yra 200 ->100 Eur
+// Jeigu kaina yra 200 ->100 Eur 
 
 function price(amount) {
     if (amount < 100) {
@@ -239,5 +239,15 @@ console.log(betterPrice(betterPrice), '->', 'ERROR');
 
 
 
+/* 
+Trust me bro funkcija - negalima pasitiketi, turi buti validacija
+*/
 
+function sum(a, b) {
+    return a + b;
+}
 
+sum(7, 5);
+sum('asd', true);
+
+/* Pabaiga */
