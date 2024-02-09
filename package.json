@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "reverse": "node --watch ./exersises/reverse.js",
     "exersisnumber-sum": "node --watch ./exersises/number-sum.js",
     "for": "node --watch ./loops/for.js",
     "array": "node --watch ./data-types/array.js",
@@ -12,6 +13,7 @@
     "uzduotys": "node --watch ./Namu_darbai/uzduotys.js",
     "ternary": "node --watch ./compare/ternary.js",
     "if": "node --watch ./compare/if.js",
+    "objects": "node --watch ./data-types/objects.js",
     "boolean_hm": "node --watch ./data-types/boolean_hm.js",
     "boolean": "node --watch ./data-types/boolean.js",
     "methods:string": "node --watch ./methods/string.js",
