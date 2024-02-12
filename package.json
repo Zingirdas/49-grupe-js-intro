@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "for-of": "node --watch ./loops/for-of.js",
     "reverse": "node --watch ./exersises/reverse.js",
     "exersisnumber-sum": "node --watch ./exersises/number-sum.js",
     "for": "node --watch ./loops/for.js",

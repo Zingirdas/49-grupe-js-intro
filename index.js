@@ -11,14 +11,15 @@ Busimos temos:
     + tekstas
     + logines reiksmes
     + underfined
-    - sarasas
-    - objektas
+    + sarasas
+    + objektas
+    -null
 -salygos (if)
     +if
     +ternary
     -switch
 -ciklai (for)
-    -for
+    +for
     -while
     -do-while
     for-of
