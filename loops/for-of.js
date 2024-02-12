@@ -33,6 +33,6 @@ for (let i = 0; i < text.length; i++) {
     console.log(i, letter);
 }
 
-for (const raide of text) {
-    console.log(raide);
+for (const letter of text) {
+    console.log(letter);
 }
