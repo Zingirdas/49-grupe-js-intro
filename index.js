@@ -20,10 +20,10 @@ Busimos temos:
     -switch
 -ciklai (for)
     +for
-    -while
-    -do-while
-    for-of
-    -for-in
+    +while
+    -do-while - labai retai naudojamas
+    +for-of
+    +for-in
     -kiti cikliski metodai
 -funkcijos
     +funkcijos

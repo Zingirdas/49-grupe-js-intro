@@ -7,6 +7,7 @@
     "while": "node --watch ./loops/while.js",
     "for-in": "node --watch ./loops/for-in.js",
     "for-of": "node --watch ./loops/for-of.js",
+    "remove-negative": "node --watch ./exersises/remove-negative.js",
     "reverse": "node --watch ./exersises/reverse.js",
     "exersisnumber-sum": "node --watch ./exersises/number-sum.js",
     "for": "node --watch ./loops/for.js",
