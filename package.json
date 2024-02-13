@@ -20,6 +20,7 @@
     "objects": "node --watch ./data-types/objects.js",
     "boolean_hm": "node --watch ./data-types/boolean_hm.js",
     "boolean": "node --watch ./data-types/boolean.js",
+    "methods:string2": "node --watch ./methods/string2.js",
     "methods:string": "node --watch ./methods/string.js",
     "string": "node --watch ./data-types/string.js",
     "number": "node --watch ./data-types/number.js",
