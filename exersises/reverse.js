@@ -31,4 +31,9 @@ function reverse(text) {
 
 // console.log(reverse(''), '->', '');
 // console.log(reverse('x'), '->', 'x');
+
+console.log(reverse('abc'), '->', 'cba');
+
 console.log(reverse('labas'), '->', 'sabal');
+console.log(reverse('kedes'), '->', 'sedek');
+console.log(reverse('alus'), '->', 'sula');

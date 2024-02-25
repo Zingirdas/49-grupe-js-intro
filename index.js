@@ -6,30 +6,30 @@ multi temos - kai kuriamos kelatas temu
 
 /*
 Busimos temos:
--duomenu tipai:
+- duomenu tipai:
     + skaiciai
     + tekstas
     + logines reiksmes
     + underfined
     + sarasas
     + objektas
-    -null
--salygos (if)
-    +if
-    +ternary
-    -switch
--ciklai (for)
-    +for
-    +while
-    -do-while - labai retai naudojamas
-    +for-of
-    +for-in
-    -kiti cikliski metodai
--funkcijos
-    +funkcijos
-    -arrow function
-    -class
--ivykiai (event listeners)
+    - null
+- salygos (if)
+    + if
+    + ternary
+    - switch
+- ciklai (for)
+    + for
+    + while
+    + do-while - labai retai naudojamas
+    + for-of
+    + for-in
+    + kiti cikliski metodai
+- funkcijos
+    + funkcijos
+    + arrow function
+    + class
+- ivykiai (event listeners)
 
 */
 

@@ -53,5 +53,6 @@ const sum = (a, b) => a + b;
 const diff = (a, b) => a - b;
 
 const calc = (a, func, b) => func(a, b);
+
 console.log(calc(7, sum, 5));
 console.diff(calc(7, diff, 5));

@@ -54,5 +54,27 @@ const firstLetter = text[0].toUpperCase();
 const otherLetters = text.slice(1).toLowerCase();
 const formatName = s => s[0].toUpperCase + s(1).toLowerCase;
 
+onsole.log(formatName('jonas'), '->', 'Jonas');
+console.log(formatName('oNA'), '->', 'Ona');
+console.log(formatName('PeTrAs'), '->', 'Petras');
+console.log(formatName('Maryte'), '->', 'Maryte');
+
+console.log('------------------');
+
+const abbbbr = fullname => {
+    const words = fullname.split(' ');
+    let result = '';
+
+    for (const word of words) {
+        result += `${word[0]}.`;
+    }
+
+    return result;
+}
+
+console.log(abbbbr('Chuck Norris'));
+console.log(abbbbr('Pamela Anderson'));
+console.log(abbbbr('David Haselhofas'));
+console.log(abbbbr('Zan Klod Van Dam'));
 
 
