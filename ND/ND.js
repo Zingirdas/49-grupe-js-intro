@@ -3,7 +3,7 @@
 Animal (name, color, sound), intro():
     Pet(name, color, sound), intro():
         - Dog (name, color, sound), intro()
-            - doubleSound ()
+            - sound -> doubleSound ()
         - Cat (name, color), intro()
         - Hamster (name. color), intro(), eat()
             - foodAmmount

@@ -7,6 +7,7 @@
   "scripts": {
     "codewars": "node --watch ./codewars/codewars.js",
     "nd": "node --watch ./nd/index.js",
+    "nd-solutions": "node --watch ./nd/nd-solution.js",
     "for-in": "node --watch ./loops/for-in.js",
     "for-of": "node --watch ./loops/for-of.js",
     "friday23": "node --watch ./exersises/friday23.js",
