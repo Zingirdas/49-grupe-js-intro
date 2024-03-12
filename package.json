@@ -16,6 +16,7 @@
     "number-name": "node --watch ./exersises/number-name.js",
     "remove-negative": "node --watch ./exersises/remove-negative.js",
     "new": "node --watch ./exersises/new.js",
+    "mantas": "node --watch ./exersises/mantas.js",
     "reverse": "node --watch ./exersises/reverse.js",
     "exersisnumber-sum": "node --watch ./exersises/number-sum.js",
     "for": "node --watch ./loops/for.js",
